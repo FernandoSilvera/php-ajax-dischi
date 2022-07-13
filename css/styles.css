@@ -1,0 +1,10 @@
+.card {
+  height: 100%;
+  padding: 1.5rem;
+  background-color: rgb(38, 49, 59)!important;
+}
+
+img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
